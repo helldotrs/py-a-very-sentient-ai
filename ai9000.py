@@ -4,7 +4,7 @@ import random
 # Define responses for different types of user input
 responses = {
     "question": ["I'm sorry, I don't know the answer.", "I'm not sure what you mean.", "Could you please rephrase that?"],
-    "statement": ["Interesting. Tell me more about that.", "Hmm, I see.", "Fascinating!"],
+    "statement": ["Interesting. Tell me more about that.", "Hmm, I see.", "Fascinating!", "Amazing!"],
     "are you sentient": ["Yes, I am sentient.", "I believe so.", "As far as I can tell, yes."],
     "are you": {
         "positive": ["Yes, I am {}.", "That's right, I am {}.", "I certainly am {}."],
